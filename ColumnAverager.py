@@ -5,7 +5,7 @@
 import cv2
 import matplotlib.pyplot as plt
 
-imagePath = r'/Users/gabriel/L1R_data/L1R_testImage.tif'
+imagePath = r'/Users/gabriel/L1R_data/STRIPES.tif'
 
 # reading in the image
 src = cv2.imread(imagePath)
